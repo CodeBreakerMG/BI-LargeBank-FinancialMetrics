@@ -1,0 +1,26 @@
+ID,ACCOUNT,CATEGORY
+AC01,Interest Income,PnL
+AC02,Interest Expenses,PnL
+AC03,Provisions,PnL
+AC04,Commission Income,PnL
+AC05,Exchange Rate Gains,PnL
+AC06,Operating Expenses (OPEX),PnL
+AC07,Other Income,PnL
+AC08,Other Expenses,PnL
+AC09,Income Tax Expense,PnL
+AC10,Net Profit,PnL
+AC11,Depreciation,PnL
+AC12,Current Assets,Balance Sheet
+AC13,Non-Current Assets,Balance Sheet
+AC14,Current Liabilities,Balance Sheet
+AC15,Non-Current Liabilities,Balance Sheet
+AC16,Shareholders’ Equity,Balance Sheet
+AC17,Total Assets,Balance Sheet
+AC18,Total Liabilities,Balance Sheet
+AC19,Net Worth/Equity,Balance Sheet
+AC20,Accounts Receivable,Balance Sheet
+AC21,Accounts Payable,Balance Sheet
+AC22,Inventory,Balance Sheet
+AC23,"Property, Plant and Equipment",Balance Sheet
+AC24,Long-Term Debt,Balance Sheet
+AC25,Retained Earnings,Balance Sheet
