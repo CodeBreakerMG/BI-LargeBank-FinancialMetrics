@@ -1,0 +1,12 @@
+PRODUCT_ID,PRODUCT,PRODUCT_TYPE
+P01,Credit Cards,Credit
+P02,Vehicle Loans,Credit
+P03,Certificate of Deposits,Deposit
+P04,Checking Account,Deposit
+P05,Savings Account,Deposit
+P06,Mortgage,Credit
+P07,Personal Loans,Credit
+P08,Business Loans,Credit
+P09,Student Loans,Credit
+P10,Home Equity Line of Credit,Credit
+P11,Fixed Deposits,Deposit

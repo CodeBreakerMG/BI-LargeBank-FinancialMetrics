@@ -1,0 +1,25 @@
+ID,ACCOUNT,ABBREVIATION,CATEGORY
+AC01,Interest Income,II,PnL
+AC02,Interest Expenses,IE,PnL
+AC03,Provisions,PR,PnL
+AC04,Service Income,IS,PnL
+AC05,Foreign Exchange Gains,FX,PnL
+AC06,Operating Expenses (OPEX),OPEX,PnL
+AC07,Other Income,OI,PnL
+AC08,Income Tax Expense,IT,PnL
+AC09,Recoveries,RE,PnL
+AC10,WriteOffs,WO,PnL
+AC11,Current Assets,CA,Balance Sheet
+AC12,Non-Current Assets,NCA,Balance Sheet
+AC13,Current Liabilities,CL,Balance Sheet
+AC14,Non-Current Liabilities,NCL,Balance Sheet
+AC15,Equity,EQ,Balance Sheet
+AC16,Total Assets,TA,Balance Sheet
+AC17,Total Liabilities,TL,Balance Sheet
+AC18,Net Worth/Equity,NW,Balance Sheet
+AC19,Accounts Receivable,AR,Balance Sheet
+AC20,Accounts Payable,AP,Balance Sheet
+AC21,Inventory,INV,Balance Sheet
+AC22,"Property, Plant and Equipment",PPE,Balance Sheet
+AC23,Long-Term Debt,LTD,Balance Sheet
+AC24,Retained Earnings,RE,Balance Sheet
